@@ -1,0 +1,10 @@
+{
+  "name": "lab05-task1",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Lab 5.1: Code Modernization — ES6 Modules",
+  "main": "modernized/main.mjs",
+  "scripts": {
+    "start": "node modernized/main.mjs"
+  }
+}

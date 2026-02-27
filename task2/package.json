@@ -1,0 +1,10 @@
+{
+  "name": "lab05-task2",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Lab 5.2: Modular Architecture with Static and Dynamic Imports",
+  "main": "modules/app.mjs",
+  "scripts": {
+    "start": "node modules/app.mjs"
+  }
+}
